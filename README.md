@@ -30,6 +30,8 @@ National Organization of Rare Disorders (www.rarediseases.org)
 Sephardic Health Organization for Referral and Education (www.shoreforlife.org)
 Treat NMD Neuromuscular Network (www.treat-nmd.eu)
 http://livingwithmyositis.wordpress.com/feed/
+press releases from ultragenyx .. http://ir.ultragenyx.com/releasedetail.cfm?ReleaseID=844340)
+press releases from companies like ultra.. or NIH (it might be redunant because google news feed will cover it.. but still)
 
 references
 http://www.ncbi.nlm.nih.gov/pubmed/20440751
