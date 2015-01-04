@@ -10,6 +10,9 @@
         $routeProvider.when('/', {
             templateUrl: 'resources/partials/home.html',
             controller: 'HomeController'
+        }).when('/#hibm', {
+            templateUrl: 'resources/partials/home.html',
+            controller: 'HomeController'
         }).otherwise({
             templateUrl: 'resources/partials/404.html',
             controller: '404Controller'
